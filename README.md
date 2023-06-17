@@ -10,7 +10,7 @@ Front-end challenges by <a href="https://www.frontendmentor.io/challenges" targe
 - [ ] 3-column preview card component - <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2" target="_blank" rel="noopener">Link</a>.
 - [ ] Profile card component - <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ" target="_blank" rel="noopener">Link</a>.
 - [ ] Order summary component - <a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank" rel="noopener">Link</a>.
-- [ ] QR code component - <a href="[https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H]" target="_blank" rel="noopener">Link</a>.
+- [ ] QR code component - <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank" rel="noopener">Link</a>.
 - [ ] Interactive rating component - <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI" target="_blank" rel="noopener">Link</a>.
 - [ ] Product preview card component - <a href="https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa" target="_blank" rel="noopener">Link</a>.
 - [ ] Results summary component - <a href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV" target="_blank" rel="noopener">Link</a>.
